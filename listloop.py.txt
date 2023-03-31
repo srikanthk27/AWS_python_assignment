@@ -1,0 +1,11 @@
+#Iteration of list using for loop
+
+
+list=[1,"sri",1.2,"srikanth"]
+for i in list:
+  print(i)
+             output:
+                             1
+sri
+1.2
+Srikanth

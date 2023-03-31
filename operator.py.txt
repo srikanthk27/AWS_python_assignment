@@ -1,0 +1,38 @@
+Arithmetic operators :
+1	+                                   output : 15
+x=10
+y=5
+
+c = x+y
+print(c)
+
+
+2	-                                output : 15
+x=20
+y=5
+
+c = x-y
+print(c)
+
+
+3	      *                             output : 15
+x=3
+y=5
+
+c = x * y
+print(c)
+
+4	%                              output : 0
+x=20
+y=5
+
+c = x %y
+print(c)
+
+
+5	     //                         output : 4
+x=20
+y=5
+
+c = x//y
+print(c)

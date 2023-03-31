@@ -1,0 +1,11 @@
+#find out the gretest number
+
+x=100                                                                  output: 100 is the largest number
+y=10
+z=5
+if (x>=y)and(z>=z) :
+  print(x,"is the largest number")
+elif (y>=x)and(y>=z):
+  print(y,"is the largest number")
+else:
+  print(z,"is the largest number")

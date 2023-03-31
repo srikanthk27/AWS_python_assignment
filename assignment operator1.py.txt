@@ -1,0 +1,45 @@
+   Assignment operator
+1.	  =    
+            x=5                                                           output : 5  
+           print(x)
+
+2        +=                                                            
+         x=6                                                             output :  9
+         x+= 3
+        print(x)
+
+3           -=                                                           output :  3
+           x=6
+          x-= 3
+          print(x)
+4          *=                                                   output : 18
+              x=6
+x *= 3
+print(x)
+
+
+
+5                /=                           output :  6.0
+ x=18
+x /= 3
+print(x)
+
+6              %=                           output :  2
+x=18
+x %= 4
+print(x)
+
+7            //=                           output :  2
+x=10
+x //= 4
+print(x)
+
+8            ** =                           output :  100
+x=10
+x **= 2
+print(x)
+
+9          ** =                           output :  100
+x=10
+x **= 2
+print(x)

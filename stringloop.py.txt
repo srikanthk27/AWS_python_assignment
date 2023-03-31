@@ -1,0 +1,10 @@
+#Print individual letters of a string using for loop
+
+string_only=input("enter the string ")
+for i in string_only:
+  print (i)
+
+output :   enter the string sri
+s
+r
+i

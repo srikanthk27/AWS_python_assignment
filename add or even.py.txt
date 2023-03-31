@@ -1,0 +1,6 @@
+1.	print the number is odd or even
+num =54                                                         output : 54, number is even
+if (num%2)==0 :
+  print(num,"number is even")
+else:
+  print(num,"number is odd")

@@ -1,0 +1,9 @@
+#swap two variables
+a=50                                                      output: before swap  50 30
+                                                                  after swap 30 50
+b=30
+print("before swap ",a,b)
+swap=a
+a=b
+b=swap
+print("after swap",a,b)
